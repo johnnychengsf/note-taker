@@ -19,13 +19,15 @@ Take note
 <a name="installation"></a>
 ## 2. Installation
 
-git clone https://github.com/johnnychengsf/note_taker.git
+git clone https://github.com/johnnychengsf/note-taker.git
 npm i
 
 <a name="usage"></a>
 ## 3. Usage
 
 npm start
+or
+https://note-taker-johnnychengsf.herokuapp.com/
 
 <a name="license"></a>
 ## 4. License
