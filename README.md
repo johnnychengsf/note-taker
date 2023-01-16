@@ -26,6 +26,7 @@ npm i
 ## 3. Usage
 
 npm start
+<open browser>localhost:3001
 or
 https://note-taker-johnnychengsf.herokuapp.com/
 
